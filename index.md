@@ -11,3 +11,6 @@ show_call_box: true
 # Maui Diagnostic Imaging
 
 MDI was the first Imaging Center on Maui to offer the most powerful MRI in clinical use today
+
+<a href="https://pay.imaginepay.com/provider/MAUI" class="btn btn--large btn--danger button" style="float: left;">Online Bill Pay</a>
+<a href="https://portal.mdimaui.com" class="btn btn--large btn--primary button" style="float: right; margin-right: 10px">Physician Portal</a>
